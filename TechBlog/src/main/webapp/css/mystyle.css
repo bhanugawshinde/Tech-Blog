@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.primary-background{
+	background: #2196f3 !important;
+}
+ .banner-background {
+            clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 93%, 63% 100%, 29% 95%, 0 100%, 0 0);
+ }
+ .like-color{
+ color: green !important;
+ 
+ }
